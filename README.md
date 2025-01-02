@@ -1,4 +1,4 @@
-# 🚀 Reddit Substance Use Analysis  
+# Reddit Substance Use Analysis  
 
 This project uses data scraping, sentiment analysis, and topic modeling to analyze discussions on Reddit about substance use, addiction, and related topics. 
 
